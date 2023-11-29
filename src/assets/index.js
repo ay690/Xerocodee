@@ -1,5 +1,6 @@
 import logo from "./logo.png";
 import mobLogo from "./mobLogo.png";
+import Frame from "./Frame.png";
 
 import career1 from "./career-1.png";
 import career2 from "./career-2.png";
@@ -33,6 +34,11 @@ import companyLogo2 from "./company-logo-2.png";
 import companyLogo3 from "./company-logo-3.png";
 import companyLogo4 from "./company-logo-4.png";
 
+import Applications from "./applications.png";
+import cyberSecurity from "./cybersecurity.png";
+import infrastructure from "./infrastructure.png";
+import Network from "./Network.png";
+
 
 export {
 logo,
@@ -57,8 +63,13 @@ scale,
 tools,
 withPic,
 without,
+Frame,
 companyLogo1,
 companyLogo2,
 companyLogo3,
-companyLogo4
+companyLogo4,
+Applications,
+Network,
+cyberSecurity,
+infrastructure
 };
