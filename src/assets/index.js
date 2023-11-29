@@ -39,6 +39,7 @@ import cyberSecurity from "./cybersecurity.png";
 import infrastructure from "./infrastructure.png";
 import Network from "./Network.png";
 
+import Arrow from "./arrow.png";
 
 export {
 logo,
@@ -71,5 +72,6 @@ companyLogo4,
 Applications,
 Network,
 cyberSecurity,
-infrastructure
+infrastructure,
+Arrow
 };
