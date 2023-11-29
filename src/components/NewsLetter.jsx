@@ -3,7 +3,7 @@ import { Arrow, Plane } from "../assets";
 
 const NewsLetter = () => {
   return (
-    <div className="w-full bg-[#90BFFF] rounded-xl py-[50px]">
+    <div className="w-full bg-[#90BFFF] rounded-[50px] py-[50px]">
       <div className="md:max-w-[800px] m-auto max-w-[600px] px-4 md:px-0">
         <div className="flex justify-center items-center mb-[50px]">
           <img alt="Plane" src={Plane} />

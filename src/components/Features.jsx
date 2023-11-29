@@ -26,7 +26,7 @@ const Features = () => {
     <div className="w-full bg-white py-[50px]">
       <div className="md:max-w-[1400px] m-auto max-w-[600px] px-4 md:px-0">
         <div className="flex justify-center items-center">
-          <p className="bg-[#4192FF] rounded-lg text-center text-blue-600 text-xl py-5 w-[170px]">
+          <p className="bg-[#4192FF] rounded-[30px] text-center text-[#0C5BC6] text-xl py-5 w-[170px]">
             Features
           </p>
         </div>
