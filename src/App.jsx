@@ -1,7 +1,6 @@
 import React from "react";
 import "./App.css";
-import { Navbar, Hero, Companies, Features, Services } from "./components";
-import { logo } from "./assets";
+import { Navbar, Hero, Companies, Features, Services, NewsLetter } from "./components";
 
 function App() {
   return (
@@ -11,6 +10,7 @@ function App() {
       <Companies />
       <Features />
       <Services />
+      <NewsLetter />
     </div>
   );
 }

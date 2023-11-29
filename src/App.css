@@ -7,7 +7,7 @@
 }
 
 .input-box-shadow {
-  filter: drop-shadow(-4px -4px 44px rgba(0, 0, 0, 0.08));
+  filter: drop-shadow(-4px 4px 44px rgba(0, 0, 0, 0.08));
 }
 
 .slick-prev:before,
@@ -47,3 +47,6 @@
 .slick-dots {
   @apply ml-[-10px] hidden;
 }
+
+
+

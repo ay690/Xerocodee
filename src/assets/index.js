@@ -40,6 +40,7 @@ import infrastructure from "./infrastructure.png";
 import Network from "./Network.png";
 
 import Arrow from "./arrow.png";
+import Plane from "./Plane.svg";
 
 export {
 logo,
@@ -73,5 +74,6 @@ Applications,
 Network,
 cyberSecurity,
 infrastructure,
-Arrow
+Arrow, 
+Plane
 };
