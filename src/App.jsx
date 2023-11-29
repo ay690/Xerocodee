@@ -1,15 +1,16 @@
 import React from "react";
 import "./App.css";
-import { Navbar } from "./components";
+import { Navbar, Hero, Companies, } from "./components";
 import { logo } from "./assets"
 
 function App() {
   return (
-    <>
-      <div>
+    <div>
+      
       <Navbar />
-      </div>
-    </>
+      <Hero />
+      <Companies />
+    </div>
   );
 }
 
