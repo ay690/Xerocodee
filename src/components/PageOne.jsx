@@ -26,7 +26,7 @@ const PageOne = () => {
           <h1 className="text text-center text-[25px] text-[#332C5C] font-bold capitalize">
             Self serve Infrastructure
           </h1>
-          <p className="text text-center text-sm text-[#5E587A] font-bold capitalize py-2">
+          <p className="text text-center text-sm text-[#5E587A] font-bold py-2">
             {" "}
             Accelerate by self-serving production-ready infrastructure and
             customize as you scale.
