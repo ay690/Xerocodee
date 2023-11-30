@@ -9,5 +9,6 @@ import PageOne from "./PageOne";
 import PageTwo from "./PageTwo";
 import PageThree from "./PageThree";
 import Success from "./Success";
+import Footer from "./Footer";
 
-export { Navbar, Hero, Companies, Features, Services, NewsLetter, BlueBg, PageOne, PageTwo, PageThree, Success };
+export { Navbar, Hero, Companies, Features, Services, NewsLetter, BlueBg, PageOne, PageTwo, PageThree, Success, Footer };

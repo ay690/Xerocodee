@@ -48,6 +48,8 @@ import Quotation from "./Quotation.png";
 import Avatar from "./avatar.png";
 import Avatar2 from "./avatar2.png";
 
+import QuotationSvg from "./Quotation.svg";
+
 export {
 logo,
 mobLogo,
@@ -85,6 +87,7 @@ Plane,
 Rocket,
 Line,
 Quotation,
+QuotationSvg,
 Avatar,
 Avatar2
 };
