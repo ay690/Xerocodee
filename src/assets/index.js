@@ -41,6 +41,8 @@ import Network from "./Network.png";
 
 import Arrow from "./arrow.png";
 import Plane from "./Plane.svg";
+import Rocket from "./Rocket.png";
+import Line from "./Line.png"
 
 export {
 logo,
@@ -75,5 +77,7 @@ Network,
 cyberSecurity,
 infrastructure,
 Arrow, 
-Plane
+Plane,
+Rocket,
+Line
 };

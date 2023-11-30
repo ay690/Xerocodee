@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { Navbar, Hero, Companies, Features, Services, NewsLetter, BlueBg } from "./components";
+import { Navbar, Hero, Companies, Features, Services, NewsLetter, BlueBg, PageOne } from "./components";
 
 function App() {
   return (
@@ -11,6 +11,7 @@ function App() {
       <Features />
       <Services />
       <BlueBg />
+      <PageOne />
       {/* <NewsLetter /> */}
     </div>
   );
