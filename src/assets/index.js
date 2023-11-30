@@ -44,6 +44,10 @@ import Plane from "./Plane.svg";
 import Rocket from "./Rocket.png";
 import Line from "./Line.png"
 
+import Quotation from "./Quotation.png";
+import Avatar from "./avatar.png";
+import Avatar2 from "./avatar2.png";
+
 export {
 logo,
 mobLogo,
@@ -79,5 +83,8 @@ infrastructure,
 Arrow, 
 Plane,
 Rocket,
-Line
+Line,
+Quotation,
+Avatar,
+Avatar2
 };
